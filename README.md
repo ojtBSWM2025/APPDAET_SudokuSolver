@@ -35,6 +35,4 @@ python3 main.py
 
 
 ##### Authors:
-Backend - Valdepenas, Cortez
-Frontend - Subardiaga, Castaneda
-QA Tester - Raymundo
+Backend - Valdepenas, Cortez | Frontend - Subardiaga, Castaneda | QA Tester - Raymundo
